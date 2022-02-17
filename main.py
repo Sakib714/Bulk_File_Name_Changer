@@ -2,7 +2,7 @@
 import os
 
 
-path = 'C:/Users/N.S Computer/OneDrive/Desktop/temp/'   # Path Directory
+path = 'C:/Users/tustus/OneDrive/Desktop/temp/'   # Path Directory
 
 
 i=1
